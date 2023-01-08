@@ -1,1 +1,1 @@
-# MiniProject-WebApp
+# MiniProjects
